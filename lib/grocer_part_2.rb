@@ -64,6 +64,7 @@ def checkout(cart, coupons)
       i += 1
      #binding.pry
     end
+    total
    # binding.pry
  # if (total > 100.0)
    #total *= 0.9
