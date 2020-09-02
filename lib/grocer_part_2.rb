@@ -62,7 +62,7 @@ def checkout(cart, coupons)
     while i < cart3.length do
       total += cart3[i-1][:price] * cart3[i-1][:count]
       i += 1
-      binding.pry
+     # binding.pry
     end
     binding.pry
   if (total > 100.0)
