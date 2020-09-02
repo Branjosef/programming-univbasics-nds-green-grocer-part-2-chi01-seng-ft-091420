@@ -65,6 +65,5 @@ def checkout(cart, coupons)
      #binding.pry
     end
     p total
-    total>= 100? puts "yes"
     binding.pry
 end
